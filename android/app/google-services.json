@@ -1,0 +1,53 @@
+{
+  "android": {
+    "package": "com.example.track_your_bus",
+    "versionCode": 1.0,
+    "permissions": [
+      "ACCESS_COARSE_LOCATION",
+      "CAMERA"
+    ],
+    "config": {
+      "googleMaps": {
+        "apiKey": "AIzaSyCBrGH-Y_Lr0HV6isRNFcUN_Ps_v2ck_oQ"
+      }
+    }
+  },
+
+  "project_info": {
+    "project_number": "704297595487",
+    "project_id": "track-your-bus-ac550",
+    "storage_bucket": "track-your-bus-ac550.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704297595487:android:f805cdf7385b96d16761ea",
+        "android_client_info": {
+          "package_name": "com.example.track_your_bus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704297595487-6hi1jo6jbvvltenekp75au59fd9vfaim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF1TcLt5dhbIvA1GARvlfILTOwR0jwEhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704297595487-6hi1jo6jbvvltenekp75au59fd9vfaim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
